@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "EmployeeManagement": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7250"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 33017,
+      "useSSL": false
+    }
+  }
+}
